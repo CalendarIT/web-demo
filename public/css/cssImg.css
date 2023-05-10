@@ -1,0 +1,19 @@
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo-container img {
+  height: 100px; /* adjust the height of the logo */
+  margin-right: 10px; /* adjust the spacing between logo and text */
+}
+
+.top-10 {
+  max-width: 50px;
+  max-height: 50px;
+}
+
+.top {
+  display: flex;
+  float: left;
+}
